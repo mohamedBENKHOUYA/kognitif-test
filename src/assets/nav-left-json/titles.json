@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Set Up",
+    "degree": 1,
+    "frame": false,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": null,
+    "icon": "<svg class='setup middle-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1536.73 1572.34'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-middle-frame-cls' d='M1297.7,1275.12c-7.89-105.73-105.53-189.56-224.41-189.56s-216.53,83.83-224.43,189.56q-.5,6.86-.5,13.83a185,185,0,0,0,12.22,66.17c30.43,79.76,114.29,137.22,212.71,137.22s182.28-57.46,212.7-137.22a185,185,0,0,0,12.22-66.17Q1298.21,1282,1297.7,1275.12Z'/><path class='svg-middle-frame-cls' d='M853.28,325.83c21.65,91.85,112.08,161,220,161s198.36-69.1,220-160.95a185.33,185.33,0,0,0,1.07-80C1274.82,151.56,1183.12,80,1073.29,80S871.75,151.56,852.2,245.83a185.55,185.55,0,0,0,1.08,80Z'/><path class='svg-middle-frame-cls' d='M697.56,760.48c-10.84-103.08-107.13-184-223.91-184s-213.06,80.9-223.9,184a185.22,185.22,0,0,0,9.17,80c28.58,82.65,114,142.8,214.73,142.8s186.16-60.15,214.74-142.8a185.22,185.22,0,0,0,9.17-80Z'/><path d='M44.23,325.83H763.36c9.83,59.58,40.34,114.56,88.32,158,59.19,53.52,137.9,83,221.61,83s162.41-29.48,221.59-83c48-43.39,78.5-98.37,88.33-157.95h109.28c24.43,0,44.24-17.91,44.24-40s-19.81-40-44.24-40H1384c-8.94-61.46-39.8-118.26-89.09-162.83C1235.7,29.47,1157,0,1073.29,0S910.87,29.47,851.68,83c-49.28,44.57-80.14,101.37-89.08,162.83H44.23c-24.42,0-44.23,17.91-44.23,40S19.81,325.83,44.23,325.83ZM1073.29,80c109.83,0,201.53,71.56,221.07,165.83a185.33,185.33,0,0,1-1.07,80c-21.64,91.85-112.07,161-220,161s-198.36-69.1-220-160.95a185.55,185.55,0,0,1-1.08-80C871.75,151.56,963.45,80,1073.29,80Z'/><path d='M1492.49,760.48H786.32c-5.08-68.39-37-132.05-91.06-181-59.2-53.52-137.9-83-221.61-83s-162.41,29.48-221.6,83c-54.11,48.93-86,112.59-91.06,181H44.23c-24.42,0-44.23,17.91-44.23,40s19.81,40,44.23,40H167.41C180,893.05,209,941.33,252.05,980.28c59.19,53.52,137.89,83,221.6,83s162.41-29.48,221.61-83c43.06-38.95,72-87.23,84.64-139.8h712.59c24.43,0,44.24-17.91,44.24-40S1516.92,760.48,1492.49,760.48ZM473.65,983.28c-100.7,0-186.15-60.15-214.73-142.8a185.22,185.22,0,0,1-9.17-80c10.84-103.08,107.12-184,223.9-184s213.07,80.9,223.91,184a185.22,185.22,0,0,1-9.17,80C659.81,923.13,574.36,983.28,473.65,983.28Z'/><path d='M1492.49,1275.12H1386.32c-3.73-70.5-35.86-136.3-91.44-186.56-59.18-53.52-137.89-83-221.59-83s-162.42,29.48-221.61,83c-55.58,50.26-87.7,116.06-91.43,186.56h-716c-24.42,0-44.23,17.91-44.23,40s19.81,40,44.23,40H768.42c13.27,50.41,41.72,96.65,83.26,134.22,59.19,53.53,137.9,83,221.61,83s162.41-29.47,221.59-83c41.55-37.57,70-83.81,83.26-134.22h114.35c24.43,0,44.24-17.9,44.24-40S1516.92,1275.12,1492.49,1275.12Zm-419.2,217.22c-98.42,0-182.28-57.46-212.71-137.22A185,185,0,0,1,848.36,1289q0-7,.5-13.83c7.9-105.73,105.55-189.56,224.43-189.56s216.52,83.83,224.41,189.56q.51,6.86.51,13.83a185,185,0,0,1-12.22,66.17C1255.57,1434.88,1171.71,1492.34,1073.29,1492.34Z'/></g></g></svg>",
+    "sub-titles": []
+  },
+  {
+    "title": "Tableaux de bord",
+    "degree": 1,
+    "frame": false,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#000",
+    "icon": "<svg class='tableaudebord middle-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1933.24 1774.13'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-middle-frame-cls' d='M780.2,734.89H105.09C91.25,734.89,80,745.05,80,757.54v913.94c0,12.49,11.25,22.64,25.09,22.64H780.2c13.83,0,25.08-10.15,25.08-22.64V757.54C805.28,745.05,794,734.89,780.2,734.89Z'/><path class='svg-middle-frame-cls' d='M779.86,80H105.42c-1.61.64-7.66,4.94-13.83,17.65C84.12,113.05,80,133.31,80,154.7V337.47c0,21.39,4.12,41.65,11.59,57,6.17,12.71,12.22,17,13.83,17.65H779.86c1.62-.64,7.67-4.94,13.83-17.65,7.48-15.4,11.59-35.66,11.59-57V154.7c0-21.39-4.11-41.65-11.59-57C787.53,84.94,781.47,80.64,779.86,80Z'/><path class='svg-middle-frame-cls' d='M1828.15,1317.43H1226.06c-1.51,0-6.65,2.93-12.12,11.66-8.24,13.16-13,32.2-13,52.25v248.87c0,20,4.73,39.09,13,52.25,5.46,8.73,10.61,11.66,12.12,11.66h602.09c1.51,0,6.66-2.93,12.13-11.66,8.24-13.16,13-32.2,13-52.25V1381.34c0-20-4.72-39.09-13-52.25C1834.81,1320.36,1829.66,1317.43,1828.15,1317.43Z'/><path class='svg-middle-frame-cls' d='M1828.15,80H1226.06c-13.83,0-25.09,10.55-25.09,23.51V979.28c0,13,11.26,23.51,25.09,23.51h602.09c13.84,0,25.09-10.54,25.09-23.51V103.51C1853.24,90.55,1842,80,1828.15,80Z'/><path d='M1828.15,1237.43H1226.06c-31.21,0-60.34,17.93-79.92,49.2-16.23,25.91-25.17,59.55-25.17,94.71v248.87c0,35.17,8.94,68.8,25.17,94.71,19.58,31.27,48.71,49.2,79.92,49.2h602.09c31.21,0,60.34-17.93,79.93-49.2,16.22-25.91,25.16-59.54,25.16-94.71V1381.34c0-35.16-8.94-68.8-25.16-94.71C1888.49,1255.36,1859.36,1237.43,1828.15,1237.43Zm25.09,392.78c0,20-4.72,39.09-13,52.25-5.47,8.73-10.62,11.66-12.13,11.66H1226.06c-1.51,0-6.66-2.93-12.12-11.66-8.24-13.16-13-32.2-13-52.25V1381.34c0-20,4.73-39.09,13-52.25,5.47-8.73,10.61-11.66,12.12-11.66h602.09c1.51,0,6.66,2.93,12.13,11.66,8.24,13.16,13,32.2,13,52.25Z'/><path d='M780.2,654.89H105.09C47.14,654.89,0,700.94,0,757.54v913.94c0,56.6,47.14,102.64,105.09,102.64H780.2c57.94,0,105.08-46,105.08-102.64V757.54C885.28,700.94,838.14,654.89,780.2,654.89Zm25.08,1016.59c0,12.49-11.25,22.64-25.08,22.64H105.09C91.25,1694.12,80,1684,80,1671.48V757.54c0-12.49,11.25-22.65,25.09-22.65H780.2c13.83,0,25.08,10.16,25.08,22.65Z'/><path d='M1828.15,0H1226.06C1168.12,0,1121,46.44,1121,103.51V979.28c0,57.08,47.15,103.51,105.09,103.51h602.09c57.95,0,105.09-46.43,105.09-103.51V103.51C1933.24,46.44,1886.1,0,1828.15,0Zm25.09,979.28c0,13-11.25,23.51-25.09,23.51H1226.06c-13.83,0-25.09-10.54-25.09-23.51V103.51c0-13,11.26-23.51,25.09-23.51h602.09c13.84,0,25.09,10.55,25.09,23.51Z'/><path d='M780.2,0H105.09C73.15,0,43.69,19.63,24.27,53.85,8.62,81.44,0,117.25,0,154.7V337.47c0,37.45,8.62,73.26,24.27,100.85,19.42,34.22,48.88,53.85,80.82,53.85H780.2c31.93,0,61.39-19.63,80.81-53.85,15.65-27.59,24.27-63.4,24.27-100.85V154.7c0-37.45-8.62-73.26-24.27-100.85C841.59,19.63,812.13,0,780.2,0Zm25.08,337.47c0,21.39-4.11,41.65-11.59,57-6.16,12.71-12.21,17-13.83,17.65H105.42c-1.61-.64-7.66-4.94-13.83-17.65-7.47-15.4-11.59-35.66-11.59-57V154.7c0-21.39,4.12-41.65,11.59-57,6.17-12.71,12.22-17,13.83-17.65H779.86c1.61.64,7.67,4.94,13.83,17.65,7.48,15.4,11.59,35.66,11.59,57Z'/></g></g></svg>",
+    "sub-titles": 
+    [
+      {
+        "title": "Relation client",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Gestion-projet",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Stock & Facturation",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Coordiation financière",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       }
+    ]
+  },
+  {
+    "title": "Calendrier",
+    "degree": 1,
+    "frame": false,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#000",
+    "icon": "<svg class='calendrier middle-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1392.94 1588.48'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-middle-frame-cls' d='M1312.94,476.25v-3.88c0-152.93-124.41-277.34-277.34-277.34H999v80.89a40,40,0,1,1-80,0V195H499v80.89a40,40,0,1,1-80,0V195H357.34C204.41,195,80,319.44,80,472.37v3.88Z'/><path class='svg-middle-frame-cls' d='M80,556.25v674.89c0,152.93,124.41,277.34,277.34,277.34H1035.6c152.93,0,277.34-124.41,277.34-277.34V556.25Z'/><path d='M1364.85,333.26A357.1,357.1,0,0,0,1035.6,115H999V40a40,40,0,0,0-80,0v75H499V40a40,40,0,0,0-80,0v75H357.34A357.08,357.08,0,0,0,0,472.37v758.77a357.08,357.08,0,0,0,357.34,357.34H1035.6a357,357,0,0,0,357.34-357.34V472.37A355.21,355.21,0,0,0,1364.85,333.26ZM357.34,195H419v80.89a40,40,0,1,0,80,0V195H919v80.89a40,40,0,1,0,80,0V195h36.63c152.93,0,277.34,124.41,277.34,277.34v3.88H80v-3.88C80,319.44,204.41,195,357.34,195ZM1035.6,1508.48H357.34C204.41,1508.48,80,1384.07,80,1231.14V556.25H1312.94v674.89C1312.94,1384.07,1188.53,1508.48,1035.6,1508.48Z'/></g></g></svg>",
+    "sub-titles": 
+    [
+      {
+        "title": "Aujourd'hui",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+      },
+      {
+        "title": "Agenda",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+      },
+      {
+        "title": "Evénements",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+      }
+    ]
+  },
+  {
+    "title": "Gantt",
+    "degree": 1,
+    "frame": false,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#000",
+    "icon": "<svg class='gant middle-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1554.57 680'><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path d='M40,80H1264.57a40,40,0,0,0,0-80H40a40,40,0,0,0,0,80Z'/><path d='M1514.57,300H290a40,40,0,0,0,0,80H1514.57a40,40,0,0,0,0-80Z'/><path d='M1264.57,600H40a40,40,0,0,0,0,80H1264.57a40,40,0,0,0,0-80Z'/></g></g></svg>",
+    "sub-titles": []
+  },
+  {
+    "title": "Relation client",
+    "degree": 1,
+    "frame": true,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#ffff00",
+    "icon": "<svg style='width: 30px;' class='svg_icon' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 105 105'><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</style></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><line class='cls-1' x1='2.5' y1='2.5' x2='84.71' y2='2.5'/><line class='cls-1' x1='20.29' y1='52.5' x2='102.5' y2='52.5'/><line class='cls-1' x1='2.5' y1='102.5' x2='84.71' y2='102.5'/></g></g></svg>",
+    "sub-titles": 
+    [
+      {
+        "title": "Opportunités",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": "<svg class='opportunites no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1253.54 1574.91'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-no-frame-cls' d='M1253.54,1574.91H0V0H1253.54ZM80,1494.91H1173.54V80H80Z'/><rect class='svg-no-frame-cls' x='222.87' y='174.03' width='117.79' height='913.97'/><rect class='svg-no-frame-cls' x='576.83' y='174.03' width='117.79' height='401.7'/><rect class='svg-no-frame-cls' x='920.68' y='174.03' width='117.79' height='1215.2'/></g></g></svg>",
+        "sub-titles": []
+      },
+      {
+        "title": "Prospectus",
+        "degree": 2,
+        "frame": false,
+        "arrow": "",
+        "color": "#000",
+        "icon": "<svg class='prospects no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1653.03 1368'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-no-frame-cls' d='M835.88,663.75A332,332,0,0,1,706.69,26.09,332,332,0,0,1,965.06,637.66,329.83,329.83,0,0,1,835.88,663.75Zm0-613.75C680.45,50,554,176.45,554,331.87S680.45,613.75,835.88,613.75s281.87-126.45,281.87-281.88S991.3,50,835.88,50Z'/><path class='svg-no-frame-cls' d='M1653,1368H0v-25c0-77.88,29.5-155.27,87.67-230,51.14-65.71,122.05-126.69,210.77-181.24C379.38,882,471.67,840.19,565.33,811c93.23-29.09,183.54-44.47,261.18-44.47s168,15.38,261.19,44.47c93.66,29.23,186,71,266.89,120.77,88.72,54.55,159.63,115.53,210.77,181.24,58.17,74.76,87.67,152.15,87.67,230ZM51.19,1318H1601.84c-15.35-161.47-175.85-283.67-273.44-343.68-155.92-95.88-352.92-157.83-501.89-157.83s-346,62-501.88,157.83C227,1034.33,66.53,1156.53,51.19,1318Z'/></g></g></svg>",
+        "sub-titles": []
+      },
+      {
+        "title": "Produits",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": "<svg class='produits no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1232.27 1634.24'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-no-frame-cls' d='M616.13,726.27a49.81,49.81,0,0,1-35.35-14.65L14.64,355.49a50,50,0,0,1,0-70.71L580.78,14.64a50,50,0,0,1,70.71,0l566.13,270.14a50,50,0,0,1,0,70.71L651.49,711.62A49.82,49.82,0,0,1,616.13,726.27ZM120.71,320.13,616.13,605.56l495.43-285.43L616.13,120.71Z'/><path class='svg-no-frame-cls' d='M616.12,1634.24a50,50,0,0,1-50-50v-908a50,50,0,0,1,100,0v790.34l466.14-449.22V320.13a50,50,0,0,1,100,0v718.52a50,50,0,0,1-15.3,36L650.83,1620.24A50,50,0,0,1,616.12,1634.24Z'/><path class='svg-no-frame-cls' d='M616.12,1634.24a49.8,49.8,0,0,1-33.29-12.71L16.7,1116A50,50,0,0,1,0,1078.71V320.13a50,50,0,0,1,100,0v736.19l549.44,490.62a50,50,0,0,1-33.32,87.3Z'/></g></g></svg>",
+        "sub-titles": []
+      }
+    ]
+  },
+  {
+    "title": "Gestion projet",
+    "degree": 1,
+    "frame": true,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#00f5cb",
+    "icon": "<svg style='width: 30px;' class='svg_icon' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 105 105'><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</style></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polygon class='cls-1' points='102.5 27.05 52.5 2.5 2.5 27.05 52.5 51.61 102.5 27.05'/><polyline class='cls-1' points='19.82 69.44 2.5 77.94 52.5 102.5 102.5 77.94 84.69 69.2'/><polyline class='cls-1' points='19.82 43.55 2.5 52.05 52.5 76.61 102.5 52.05 84.69 43.3'/></g></g></svg>",
+    "sub-titles": [
+      {
+        "title": "Projets",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": "<svg class='projets no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1617.51 1328.39'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-no-frame-cls' d='M1577.51,1328.39H40a40,40,0,0,1-40-40V273.69a40,40,0,0,1,40-40H1577.51a40,40,0,0,1,40,40v1014.7A40,40,0,0,1,1577.51,1328.39ZM80,1248.39H1537.51V313.69H80Z'/><path class='svg-no-frame-cls' d='M1412.54,193.63H205a40,40,0,0,1,0-80H1412.54a40,40,0,0,1,0,80Z'/><path class='svg-no-frame-cls' d='M1208.44,80H409.07a40,40,0,0,1,0-80h799.37a40,40,0,0,1,0,80Z'/></g></g></svg>",
+        "sub-titles": [
+          {
+            "title": "Ajouter un projet",
+            "degree": 3,
+            "frame": false,
+            "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+            "color": "",
+            "icon": "",
+            "sub-titles": []
+          },
+          {
+            "title": "Catégorie de projet",
+            "degree": 3,
+            "frame": false,
+            "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+            "color": "",
+            "icon": "",
+            "sub-titles": [
+              {
+                "title": "Créer une catégorie",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              },
+              {
+                "title": "Administratif",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              },
+              {
+                "title": "Commercial",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              },
+              {
+                "title": "Juridique",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              },
+              {
+                "title": "Financier",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              },
+              {
+                "title": "Industriel",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              },
+              {
+                "title": "Autre",
+                "degree": 4,
+                "frame": false,
+                "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+                "color": "",
+                "icon": "",
+                "sub-titles": []
+              }
+            ]
+          },
+          {
+            "title": "Tous les projets",
+            "degree": 3,
+            "frame": false,
+            "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+            "color": "",
+            "icon": "",
+            "sub-titles": []
+          }
+        ]
+      },
+      {
+        "title": "Fichiers",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": "<svg class='fichiers no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1049.45 1310.42'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-no-frame-cls' d='M1018.23,439.71,580.78,34.36A40,40,0,0,0,541.18,0H238.24A238.24,238.24,0,0,0,0,238.24v833.94a238.24,238.24,0,0,0,238.24,238.24h573a238.24,238.24,0,0,0,238.24-238.24V478.73A40,40,0,0,0,1018.23,439.71Zm-48.78,632.47c0,87.25-71,158.24-158.24,158.24h-573c-87.25,0-158.24-71-158.24-158.24V238.24C80,151,151,80,238.24,80H541.18a39.77,39.77,0,0,0,21-5.93V392.69a73.56,73.56,0,0,0,73.56,73.56H971.45a39.93,39.93,0,0,0-2,12.48Z'/></g></g></svg>",
+        "sub-titles": []
+      },
+      {
+        "title": "Congés",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": "<svg class='conges no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1195.72 1386.86'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='svg-no-frame-cls-1' d='M917.68,860.66C819.62,768,705.91,733.26,704.77,732.92a39.9,39.9,0,0,1-28.59-38.34V631.67a40,40,0,0,1,40-40h.59c90,1.31,159.73-26.23,213.19-84.21C1041.85,386.09,1047.07,166.29,1044.38,80h-859c-2.68,86.29,2.53,306.09,114.42,427.47C353.23,565.45,423,593,513,591.68a40,40,0,0,1,40.59,40v62.91a40,40,0,0,1-28.67,38.36c-1.07.32-114.78,35.1-212.84,127.72-121.46,114.73-166.61,264.72-134.46,446.19h874.55C1084.29,1125.38,1039.14,975.39,917.68,860.66Z'/><path class='svg-no-frame-cls' d='M1155.72,1306.85h-22.49c16.59-105,9.76-202.35-20.44-290.08-28.06-81.49-76-154.34-142.57-216.52C894,729,811.49,688.75,764.93,669.79c90.34-8.46,165.55-44.77,224-108.28,39-42.38,70.22-96.93,92.77-162.13,17.56-50.78,30-108.23,36.89-170.75A1080.48,1080.48,0,0,0,1124.51,80h31.21a40,40,0,0,0,0-80H40a40,40,0,0,0,0,80h65.23a1078.6,1078.6,0,0,0,5.89,148.63c6.92,62.52,19.33,120,36.89,170.75,22.55,65.2,53.76,119.75,92.78,162.13,58.47,63.52,133.67,99.82,224,108.28-46.55,19-129.06,59.25-205.28,130.46C193,862.43,145,935.28,116.94,1016.77c-30.2,87.73-37,185.12-20.44,290.08H40a40,40,0,0,0,0,80H1155.72a40,40,0,0,0,0-80ZM312.05,860.66C410.11,768,523.82,733.26,524.89,732.94a40,40,0,0,0,28.67-38.36V631.67a40,40,0,0,0-40.59-40c-90,1.35-159.74-26.23-213.2-84.21C187.88,386.09,182.67,166.29,185.35,80h859c2.69,86.29-2.53,306.09-114.42,427.47-53.46,58-123.18,85.52-213.19,84.21h-.59a40,40,0,0,0-40,40v62.91a39.9,39.9,0,0,0,28.59,38.34c1.14.34,114.85,35.12,212.91,127.74,121.46,114.73,166.61,264.72,134.46,446.19H177.59C145.44,1125.38,190.59,975.39,312.05,860.66Z'/></g></g></svg>",
+        "sub-titles": []
+      },
+      {
+        "title": "Annonces",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": "<svg class='annonces no-frame' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1722.96 1232.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='cls' d='M1570.28,0H152.68C68.49,0,0,68.49,0,152.68v926.69c0,84.19,68.49,152.68,152.68,152.68h1417.6c84.19,0,152.68-68.49,152.68-152.68V152.68C1723,68.49,1654.47,0,1570.28,0ZM1643,1079.37a72.76,72.76,0,0,1-72.68,72.68H152.68A72.76,72.76,0,0,1,80,1079.37V152.68A72.76,72.76,0,0,1,152.68,80h1417.6A72.76,72.76,0,0,1,1643,152.68Z'/><rect class='cls' x='279.58' y='152.47' width='1255.18' height='337.93'/><rect class='cls' x='279.58' y='570.4' width='1255.18' height='181.1'/><rect class='cls' x='279.58' y='831.48' width='991.21' height='193.29'/></g></g></svg>",
+        "sub-titles": []
+      }
+    ]
+  },
+  {
+    "title": "Stock & facturation",
+    "degree": 1,
+    "frame": true,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#ff5d08",
+    "icon": "<svg style='width: 30px;' class='svg_icon' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 105 105'><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:5px;}</style></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polygon class='cls-1' points='19.83 2.5 102.5 2.5 102.5 93.48 92.9 102.5 11.48 102.5 2.5 94.07 2.5 78.58 20.66 78.58 19.83 2.5'/><line class='cls-1' x1='34.86' y1='25.25' x2='68.26' y2='25.25'/><line class='cls-1' x1='79.33' y1='25.25' x2='90.6' y2='25.25'/><line class='cls-1' x1='33.19' y1='42.7' x2='68.26' y2='42.7'/><line class='cls-1' x1='79.33' y1='42.7' x2='90.6' y2='42.7'/><polyline class='cls-1' points='20.66 78.58 76.19 78.58 76.19 90.54 88.72 102.3'/></g></g></svg>",
+    "sub-titles": 
+    [
+      {
+        "title": "Relation client",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Gestion-projet",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Stock & Facturation",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Coordiation financière",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       }
+    ]
+  },
+  {
+    "title": "Coordination financière",
+    "degree": 1,
+    "frame": true,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#00d6ed",
+    "icon": "<svg style='width: 30px;' class='svg_icon' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 105 105'><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</style></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><path class='cls-1' d='M98.6,93.5a43.45,43.45,0,0,1-26.39,9c-25.45,0-46.09-22.39-46.09-50s20.64-50,46.09-50A43.88,43.88,0,0,1,102.5,14.81'/><line class='cls-1' x1='2.5' y1='45.52' x2='52.73' y2='45.52'/><line class='cls-1' x1='2.5' y1='59.54' x2='52.73' y2='59.54'/></g></g></svg>",
+    "sub-titles": 
+    [
+      {
+        "title": "Relation client",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Gestion-projet",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Stock & Facturation",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Coordiation financière",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       }
+    ]
+  },
+  {
+    "title": "Ressources humaines",
+    "degree": 1,
+    "frame": true,
+    "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+    "color": "#502dff",
+    "icon": "<svg style='width: 30px;' class='svg_icon' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 102.5 105.5'><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}.cls-2{fill:#fff;}</style></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><ellipse class='cls-1' cx='47.72' cy='24.87' rx='18.4' ry='22.37'/><path class='cls-1' d='M71.08,59.73A47,47,0,0,0,47.72,53.6c-25,0-45.22,19.08-45.22,42.62H69.66'/><ellipse class='cls-1' cx='80.86' cy='78.3' rx='18.13' ry='22.04'/><ellipse class='cls-2' cx='84.12' cy='56.91' rx='4.78' ry='5.81'/><ellipse class='cls-2' cx='67.25' cy='64.17' rx='4.78' ry='5.81'/><ellipse class='cls-2' cx='63.99' cy='85.56' rx='4.78' ry='5.81'/><ellipse class='cls-2' cx='77.59' cy='99.69' rx='4.78' ry='5.81'/><ellipse class='cls-2' cx='94.46' cy='92.43' rx='4.78' ry='5.81'/><ellipse class='cls-2' cx='97.72' cy='71.04' rx='4.78' ry='5.81'/></g></g></svg>",
+    "sub-titles": 
+    [
+      {
+        "title": "Relation client",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Gestion-projet",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Stock & Facturation",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       },
+       {
+        "title": "Coordiation financière",
+        "degree": 2,
+        "frame": false,
+        "arrow": "<svg class='arrow' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90.65 116.05'><defs></defs><g id='Layer_2' data-name='Layer 2'><g id='Layer_1-2' data-name='Layer 1'><polyline class='arrow-cls' points='5 5 81.88 58.53 5.7 111.05'/></g></g></svg>",
+        "color": "#000",
+        "icon": null,
+        "sub-titles": []
+       }
+    ]
+  }
+]
